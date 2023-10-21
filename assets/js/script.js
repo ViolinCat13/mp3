@@ -308,13 +308,19 @@ playerSeekRange.addEventListener("input", seek);
 const isMusicEnd = function () {
   if (audioSource.ended) {
     playBtn.classList.remove("active");
-    audioSource.currentTime = 0;
     playerSeekRange.value = audioSource.currentTime;
     playerRunningTime.textContent = getTimecode(audioSource.currentTime);
     updateRangeFill();
+
+    // Check if there is a next song and auto-play it
+    if (currentMusic < musicData.length - 1) {
+      currentMusic++;
+      changePlayerInfo();
+      changePlaylistItem();
+      playMusic();
+    }
   }
 }
-
 
 
 /**
