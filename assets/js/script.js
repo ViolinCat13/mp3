@@ -14,7 +14,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/01 - Floating Door -  MIG-25.mp3",
+    musicPath: "./assets/music/ss-ost/01 - Floating Door - MIG-25.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -23,7 +23,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/02 - Floating Door -  Old Engineer.mp3",
+    musicPath: "./assets/music/ss-ost/02 - Floating Door - Old Engineer.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -32,7 +32,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/03 - Floating Door -  On the Run.mp3",
+    musicPath: "./assets/music/ss-ost/03 - Floating Door - On the Run.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -41,7 +41,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/04 - Floating Door -  Molten Steel.mp3",
+    musicPath: "./assets/music/ss-ost/04 - Floating Door - Molten Steel.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -50,7 +50,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/05 - Floating Door -  Impact.mp3",
+    musicPath: "./assets/music/ss-ost/05 - Floating Door - Impact.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -59,7 +59,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/06 - Floating Door -  Phoenix Carpenter.mp3",
+    musicPath: "./assets/music/ss-ost/06 - Floating Door - Phoenix Carpenter.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -68,7 +68,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/07 - Floating Door -  Prison of Ice.mp3",
+    musicPath: "./assets/music/ss-ost/07 - Floating Door - Prison of Ice.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -77,7 +77,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/08 - Floating Door -  Pseudo.mp3",
+    musicPath: "./assets/music/ss-ost/08 - Floating Door - Pseudo.mp3",
   },
   {
     backgroundImage: "./assets/images/Chewing Glass - Severed Steel OST 1.png",
@@ -86,7 +86,7 @@ const musicData = [
     album: "Chewing Glass",
     year: 2021,
     artist: "Floating Door",
-    musicPath: "./assets/music/ss-ost/09 - Floating Door -  Pugachev_s Cobra.mp3",
+    musicPath: "./assets/music/ss-ost/09 - Floating Door - Pugachev_s Cobra.mp3",
   },
 ];
 
